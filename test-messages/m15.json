@@ -1,0 +1,11 @@
+{
+  "id": 137,
+  "name": "message 15",
+  "description": "Customer notification dispatch batch",
+  "start": "2026-03-10T09:00:00Z",
+  "end": "2026-03-10T09:20:00Z",
+  "tags": [
+    { "source": "platform" },
+    { "use_case": "notification" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 127,
+  "name": "message 5",
+  "description": "Data pipeline ingestion batch",
+  "start": "2026-03-09T10:00:00Z",
+  "end": "2026-03-09T11:45:00Z",
+  "tags": [
+    { "source": "pipeline" },
+    { "use_case": "ingestion" }
+  ]
+}

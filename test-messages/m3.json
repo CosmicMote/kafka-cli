@@ -1,0 +1,11 @@
+{
+  "id": 125,
+  "name": "message 3",
+  "description": "Infrastructure health check",
+  "start": "2026-03-09T06:00:00Z",
+  "end": "2026-03-09T06:15:00Z",
+  "tags": [
+    { "source": "infra" },
+    { "use_case": "monitoring" }
+  ]
+}

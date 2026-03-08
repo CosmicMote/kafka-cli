@@ -1,0 +1,11 @@
+{
+  "id": 142,
+  "name": "message 20",
+  "description": "End-of-day ops handoff summary",
+  "start": "2026-03-10T17:00:00Z",
+  "end": "2026-03-10T17:30:00Z",
+  "tags": [
+    { "source": "ops" },
+    { "use_case": "reporting" }
+  ]
+}
